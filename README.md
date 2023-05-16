@@ -1,4 +1,4 @@
-# Unity_Avatar_CahtGPT
+# Unity_Avatar_ChatGPT
 Avatar ReadyPlayerMe, Lipsync, Azure Cognitive Services and ChatGTP
 
 # Microsoft Cognitive Services
